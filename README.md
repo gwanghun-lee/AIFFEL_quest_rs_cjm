@@ -7,6 +7,7 @@
 
 
 ### 레포 구조:
+```bash
 AIFFEL_quest_rs
 ├── Exploration
 │   ├── Ex01
